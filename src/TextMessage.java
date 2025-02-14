@@ -13,7 +13,7 @@ public class TextMessage {
                 a....nach Westen
                 s....nach Süden
                 d....nach Osten
-                u....untersuchen
+                u....umschauen
                 """);
     }
      private void kitchen(){
@@ -23,7 +23,16 @@ public class TextMessage {
                  einer Messerhalterung.
                  Was tust du?
                  a....nach Westen
-                 u....untersuchen
+                 u....umschauen
+                 """);
+     }
+     private void library(){
+         System.out.println("""
+                 Du gehst in einer alten und staubigen Bibliothek hinein wo dich riesige Bücherregale
+                 erwarten.
+                 Was tust du?
+                 w....nach Norden
+                 u....umschauen
                  """);
      }
 }
