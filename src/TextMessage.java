@@ -16,7 +16,7 @@ public class TextMessage {
                 u....untersuchen
                 """);
     }
-     private void library(){
+     private void kitchen(){
          System.out.println("""
                  Hier befindet sich die Küche. In der Küche schaust du dich ein
                  wenig um und findest einen Herd, ein Kochbuch und ein Messer in
